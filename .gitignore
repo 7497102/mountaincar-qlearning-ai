@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pickle
+venv/
+.env
+.idea/
